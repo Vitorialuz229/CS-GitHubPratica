@@ -1,6 +1,6 @@
 ## Integrantes do Grupo
 
-* ## API POKEDEX
+# API POKEDEX
 * Raquel Dias da Silva
 * Thayliny Alves de Moura 
 * Taniele Rocha Madureira
